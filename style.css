@@ -1,0 +1,16 @@
+.container {
+  margin-bottom: 1.25rem;
+}
+
+.form-control {
+  display: inline;
+  width: 25%;
+}
+
+.section-container {
+  padding-top: 1.25rem;
+}
+
+.section-heading {
+  margin-bottom: 0.625rem;
+}
