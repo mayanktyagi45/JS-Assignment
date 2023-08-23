@@ -1,0 +1,502 @@
+[
+    {
+        "id": "5533dsF3uPZEj9RrXzFr7j",
+        "genre": "Self-help",
+        "price": 9248
+    },
+    {
+        "id": "tNkUgnYAbp8RKUTXooobdS",
+        "genre": "Fantasy",
+        "price": 4639
+    },
+    {
+        "id": "3xt2fQSKohFE3MWsTyo2zt",
+        "genre": "Historical Fiction",
+        "price": 5542
+    },
+    {
+        "id": "dY5SfAfUxyRVEFB5q37KWv",
+        "genre": "Historical Fiction",
+        "price": 2084
+    },
+    {
+        "id": "hCQ6mr6JTg8DhKM6YHv4P9",
+        "genre": "Horror",
+        "price": 4085
+    },
+    {
+        "id": "jhiErFhFfAp2eYgZ8VrWAt",
+        "genre": "Horror",
+        "price": 4820
+    },
+    {
+        "id": "vzJ3Bw8h5FGJArSXAW68YX",
+        "genre": "Fantasy",
+        "price": 5363
+    },
+    {
+        "id": "fdVRWpYdiMjqL5P4PpeiGA",
+        "genre": "Biography",
+        "price": 6460
+    },
+    {
+        "id": "fUb8pXWtziBeDgovoXX6U7",
+        "genre": "Thriller",
+        "price": 1627
+    },
+    {
+        "id": "wo78uAEQpGxFnmuNULgtBM",
+        "genre": "Mystery",
+        "price": 4133
+    },
+    {
+        "id": "9oVErXStiq4ckLGwQrC6qx",
+        "genre": "Biography",
+        "price": 4781
+    },
+    {
+        "id": "tCP3WVxz4jSdPJwNoAyoTb",
+        "genre": "Mystery",
+        "price": 3166
+    },
+    {
+        "id": "89gGW9nAZwmYfPY1AKkQRp",
+        "genre": "Horror",
+        "price": 2334
+    },
+    {
+        "id": "hAPHEbhD3Ns8p5hPJXJpbT",
+        "genre": "Fantasy",
+        "price": 6323
+    },
+    {
+        "id": "aLkPmU7fW7V3zWEEehEfTu",
+        "genre": "Non-fiction",
+        "price": 8019
+    },
+    {
+        "id": "63REfzdnwDmt6bDd7F53fq",
+        "genre": "Thriller",
+        "price": 3886
+    },
+    {
+        "id": "tCC4r2epa4XjnGAZiXuubX",
+        "genre": "Adventure",
+        "price": 6626
+    },
+    {
+        "id": "inPd2UT2RfRn6PVMgQCPou",
+        "genre": "Self-help",
+        "price": 8780
+    },
+    {
+        "id": "jTpjXW4eYnxRHbjecJgDat",
+        "genre": "Historical Fiction",
+        "price": 8751
+    },
+    {
+        "id": "uQ8qqUEDCEoDJwzEKkZdEv",
+        "genre": "Horror",
+        "price": 6611
+    },
+    {
+        "id": "e6eX5VAogRSZ7xpVjhpwMJ",
+        "genre": "Horror",
+        "price": 4553
+    },
+    {
+        "id": "qqygQmXqr9mXpjF2zEr5SH",
+        "genre": "Mystery",
+        "price": 4745
+    },
+    {
+        "id": "8mr3Va4Dnw3vjTTh7PDxpS",
+        "genre": "Adventure",
+        "price": 4673
+    },
+    {
+        "id": "m4PqMRrUoi6NwfmiFfuAvf",
+        "genre": "Horror",
+        "price": 8754
+    },
+    {
+        "id": "14Lk8FtCqTY8XguzuDU1k2",
+        "genre": "Self-help",
+        "price": 3140
+    },
+    {
+        "id": "tVNUTUBvvhsLrTBJEgkS4e",
+        "genre": "Historical Fiction",
+        "price": 2765
+    },
+    {
+        "id": "nsqdaF5WygjK6MSoYLFQQT",
+        "genre": "Self-help",
+        "price": 5917
+    },
+    {
+        "id": "r8tv61wkZTmAUinmdfyYiH",
+        "genre": "Science Fiction",
+        "price": 8327
+    },
+    {
+        "id": "jSbUALxH2feJRU3pjWheJG",
+        "genre": "Self-help",
+        "price": 5293
+    },
+    {
+        "id": "xiGnNEBQvT5K3nhC9bwA9T",
+        "genre": "Adventure",
+        "price": 1516
+    },
+    {
+        "id": "uSXBZy3kJG4iatGvHMKukP",
+        "genre": "Self-help",
+        "price": 4671
+    },
+    {
+        "id": "7c8wrUcWTRzDj8kaVZtUs4",
+        "genre": "Thriller",
+        "price": 5880
+    },
+    {
+        "id": "bKnqUF8hqm4n7GbKeDLyWb",
+        "genre": "Romance",
+        "price": 9200
+    },
+    {
+        "id": "jg5kvaHfhRKL4JsRauefeX",
+        "genre": "Thriller",
+        "price": 8538
+    },
+    {
+        "id": "hLEsg9SRX1EypyFniLVcac",
+        "genre": "Non-fiction",
+        "price": 9846
+    },
+    {
+        "id": "iQhR5y6ENwY21VowyTsr5B",
+        "genre": "Mystery",
+        "price": 6270
+    },
+    {
+        "id": "rorfQLzFQx7DFeaDC9bNS7",
+        "genre": "Science Fiction",
+        "price": 1458
+    },
+    {
+        "id": "eQhSexFpxv6jkNhNcupTN2",
+        "genre": "Fantasy",
+        "price": 3185
+    },
+    {
+        "id": "kgtbF6kf4tNwZAEDYUtLNv",
+        "genre": "Biography",
+        "price": 4000
+    },
+    {
+        "id": "4k6AZHZ3mcqfMYSz2Z8gjX",
+        "genre": "Non-fiction",
+        "price": 8323
+    },
+    {
+        "id": "1dFE2msQqEHTAQCv332pJw",
+        "genre": "Non-fiction",
+        "price": 7041
+    },
+    {
+        "id": "dE6q54y9ur7x2dEYvNW2nP",
+        "genre": "Fantasy",
+        "price": 3288
+    },
+    {
+        "id": "oVMKdiErhoSSPxUue6V7eS",
+        "genre": "Non-fiction",
+        "price": 7194
+    },
+    {
+        "id": "6tB7NVzubLukoPW3CYnV2C",
+        "genre": "Adventure",
+        "price": 2444
+    },
+    {
+        "id": "kszh3cMXZuXcDdL4QYkiY4",
+        "genre": "Self-help",
+        "price": 4087
+    },
+    {
+        "id": "6SfMqj5AEoP22Px1TV5FRK",
+        "genre": "Romance",
+        "price": 3156
+    },
+    {
+        "id": "wKixJZLHaWTpt4uJUc2s9d",
+        "genre": "Biography",
+        "price": 648
+    },
+    {
+        "id": "3AH39zQ5oWJfmYdSd2x75M",
+        "genre": "Historical Fiction",
+        "price": 7155
+    },
+    {
+        "id": "mCsQWNXbTc2gGm7dXdoCzD",
+        "genre": "Romance",
+        "price": 5900
+    },
+    {
+        "id": "qHzhwZ3nGGe85VkPyjUMtz",
+        "genre": "Non-fiction",
+        "price": 8376
+    },
+    {
+        "id": "4kQ17PyU6tfRJCS12Tjwqa",
+        "genre": "Self-help",
+        "price": 5079
+    },
+    {
+        "id": "cRHVNDSdr3Y7XqBDdS6dgh",
+        "genre": "Adventure",
+        "price": 9588
+    },
+    {
+        "id": "jErKqfvsGg7dZyiyJCjHcR",
+        "genre": "Romance",
+        "price": 4319
+    },
+    {
+        "id": "nZiTan1hgVbR6oiZLfHDGW",
+        "genre": "Thriller",
+        "price": 3443
+    },
+    {
+        "id": "spanu9LdxUjqpMy4esfBTj",
+        "genre": "Thriller",
+        "price": 766
+    },
+    {
+        "id": "xekK7yRWatGpaXLLRoM7MY",
+        "genre": "Historical Fiction",
+        "price": 7692
+    },
+    {
+        "id": "gPiSvFbeVi3gHhMVTpRKW7",
+        "genre": "Fantasy",
+        "price": 8689
+    },
+    {
+        "id": "d7SrfbeoYjb7qYQ1Y56SoV",
+        "genre": "Adventure",
+        "price": 8852
+    },
+    {
+        "id": "cFyHM8Cskqn1NKFMtYVhWi",
+        "genre": "Horror",
+        "price": 9008
+    },
+    {
+        "id": "c6QP5j7FPspWn4E9ryzJuy",
+        "genre": "Horror",
+        "price": 4218
+    },
+    {
+        "id": "7DmtRTdcZatZDUD8TMdGJG",
+        "genre": "Self-help",
+        "price": 6428
+    },
+    {
+        "id": "9SYUm5BLQYWPSHb28jTzmW",
+        "genre": "Fantasy",
+        "price": 6956
+    },
+    {
+        "id": "eTzDtsySmvGdjPwyX7oSTX",
+        "genre": "Adventure",
+        "price": 1105
+    },
+    {
+        "id": "8YeqRhnMFsxBKNysaMnM75",
+        "genre": "Horror",
+        "price": 1106
+    },
+    {
+        "id": "2fL7GuFC9ac167eCWGM3pa",
+        "genre": "Non-fiction",
+        "price": 916
+    },
+    {
+        "id": "sfAfHpCu1uxaZxTiREugde",
+        "genre": "Romance",
+        "price": 9388
+    },
+    {
+        "id": "3vc6GnawDRY7E9EecF2UuQ",
+        "genre": "Biography",
+        "price": 6065
+    },
+    {
+        "id": "tuii5b9oBJRnyghD62wEGg",
+        "genre": "Historical Fiction",
+        "price": 9236
+    },
+    {
+        "id": "vUa7nmzDcw12sm2pCkF2oD",
+        "genre": "Mystery",
+        "price": 2794
+    },
+    {
+        "id": "en1bXb8CSeoLxXgV3L1sQG",
+        "genre": "Thriller",
+        "price": 257
+    },
+    {
+        "id": "wqgscptpBbFKJTM5AumGMv",
+        "genre": "Romance",
+        "price": 7128
+    },
+    {
+        "id": "1KC8SGXT4a6QwnHjLcJpiM",
+        "genre": "Science Fiction",
+        "price": 4388
+    },
+    {
+        "id": "uNqxsKDCzYy3SvLWjaTUpp",
+        "genre": "Non-fiction",
+        "price": 2038
+    },
+    {
+        "id": "aJhr6AietpKUkPLJE6kyd1",
+        "genre": "Romance",
+        "price": 9242
+    },
+    {
+        "id": "uqbdAYA67bgeD38gNEyKA9",
+        "genre": "Science Fiction",
+        "price": 316
+    },
+    {
+        "id": "cDk1RAfWGCCdRMRUCuLPXK",
+        "genre": "Mystery",
+        "price": 7679
+    },
+    {
+        "id": "bZ2ya432X6nzHHwhcCkddL",
+        "genre": "Self-help",
+        "price": 8955
+    },
+    {
+        "id": "8McoUneapTYcguTnQZh33j",
+        "genre": "Mystery",
+        "price": 9305
+    },
+    {
+        "id": "x4RAgAuhdsDK3q6X5L9Soh",
+        "genre": "Biography",
+        "price": 5574
+    },
+    {
+        "id": "eDdccM4bFRK5d65kzX7HaN",
+        "genre": "Biography",
+        "price": 6333
+    },
+    {
+        "id": "nK8vzETyxaNryx7sL3V9si",
+        "genre": "Adventure",
+        "price": 5834
+    },
+    {
+        "id": "5hASydUjwxUjFT8D15iBY1",
+        "genre": "Thriller",
+        "price": 3631
+    },
+    {
+        "id": "vx5gPD5vUDosUP3UF7m4KK",
+        "genre": "Adventure",
+        "price": 7885
+    },
+    {
+        "id": "6dw2qinsfyY6G82DNseKvp",
+        "genre": "Historical Fiction",
+        "price": 5876
+    },
+    {
+        "id": "m3oiGfzC8wwGXvGT1eSZzo",
+        "genre": "Non-fiction",
+        "price": 1899
+    },
+    {
+        "id": "ofFVmmxYjo7yQgiSRfRZ9D",
+        "genre": "Non-fiction",
+        "price": 9140
+    },
+    {
+        "id": "jv4aKLKgS5xUywsYc61NNJ",
+        "genre": "Science Fiction",
+        "price": 8828
+    },
+    {
+        "id": "d7Eo4BLHTfHAGLz6EvogJQ",
+        "genre": "Science Fiction",
+        "price": 5157
+    },
+    {
+        "id": "ezcETgBMTEiv3UymfgG9tL",
+        "genre": "Biography",
+        "price": 920
+    },
+    {
+        "id": "4n9eXpFCXBb9p6PmEEpCJq",
+        "genre": "Biography",
+        "price": 671
+    },
+    {
+        "id": "9k9pZUMKWducGydoP4yPXb",
+        "genre": "Self-help",
+        "price": 7381
+    },
+    {
+        "id": "g52dHZnk6vN7sdW3LRRi4i",
+        "genre": "Biography",
+        "price": 8434
+    },
+    {
+        "id": "n3WtHMuZ9AQEcrAhzciWkY",
+        "genre": "Fantasy",
+        "price": 5923
+    },
+    {
+        "id": "6Us1j22d5VJt8CGDBFzPQk",
+        "genre": "Adventure",
+        "price": 590
+    },
+    {
+        "id": "wA3yqVmYy99mSLELsTGWMy",
+        "genre": "Horror",
+        "price": 9478
+    },
+    {
+        "id": "9tXXUwxQDfAbAautH1PG5E",
+        "genre": "Science Fiction",
+        "price": 6360
+    },
+    {
+        "id": "s748VYMfdibSX4a7yNczQw",
+        "genre": "Romance",
+        "price": 7050
+    },
+    {
+        "id": "wE2ne4ECxBqMs4L4sBarYh",
+        "genre": "Science Fiction",
+        "price": 7254
+    },
+    {
+        "id": "mAgyGKkxhQGj27b5NNrKdx",
+        "genre": "Science Fiction",
+        "price": 1678
+    },
+    {
+        "id": "wvnAoAUGChA3WrSCh9WMMX",
+        "genre": "Mystery",
+        "price": 495
+    }
+]
