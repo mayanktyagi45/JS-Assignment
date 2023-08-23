@@ -16,37 +16,38 @@
   <body>
     <section class="container section-container">
       <h3>Search Book By Id</h3>
-      <form action="#">
-        <input type="text" class="form-control" />
+      <form class="js-book-id" action="#">
+        <input type="text" class="form-control js-id-input" />
         <button class="btn" type="submit">Search Product</button>
       </form>
     </section>
 
     <section class="container section-container">
       <h3>Search Book By Genre</h3>
-      <form action="#">
-        <input type="text" class="form-control" />
+      <form action="#" class="js-book-genre">
+        <input type="text" class="form-control js-genre-input" />
         <button class="btn" type="submit">Search Genre</button>
       </form>
     </section>
 
     <section class="container section-container">
       <h3>Search Book By Price</h3>
-      <form action="#">
-        <input type="text" class="form-control" />
+      <form action="#" class="js-book-price">
+        <input type="text" class="form-control js-price-input" />
         <button class="btn" type="submit">Search Price</button>
       </form>
     </section>
 
     <section class="container">
       <h3>List of All Books</h3>
-      <table class="table">
+      <table class="table js-all-books">
         <thead>
-          <th>BookId</th>
-          <th>Genre</th>
-          <th>Price</th>
+          <th class="js-table-row">BookId</th>
+          <th class="js-table-row">Genre</th>
+          <th class="js-table-row">Price</th>
         </thead>
       </table>
     </section>
+    <script src="./javascripts_async.js/script.js" type="module"></script>
   </body>
 </html>
